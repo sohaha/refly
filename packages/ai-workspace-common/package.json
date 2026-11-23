@@ -78,13 +78,13 @@
     "highlight.js": "^11.9.0",
     "hotkeys-js": "~3.10.2",
     "html2canvas": "^1.4.1",
-    "i18next": "^23.11.2",
+    "i18next": "^26.3.4",
     "i18next-browser-languagedetector": "^8.0.2",
     "immer": "^10.1.1",
     "is-hotkey": "~0.2.0",
     "jotai": "~2.6.4",
     "js-cookie": "^3.0.5",
-    "katex": "0.15.6",
+    "katex": "0.18.2",
     "lodash.debounce": "~4.0.8",
     "lodash.throttle": "^4.1.1",
     "lowlight": "~3.1.0",
@@ -96,7 +96,7 @@
     "motion": "^12.4.5",
     "prism-react-renderer": "~2.3.1",
     "prop-types": "^15.8.1",
-    "qs": "~6.12.3",
+    "qs": "~6.16.1",
     "rate-limiter-flexible": "~5.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -154,7 +154,7 @@
     "postcss": "^8.4.21",
     "sass": "1.71.1",
     "tailwindcss": "^3.2.6",
-    "vite": "^5.2.0",
+    "vite": "^6.4.5",
     "wxt": "workspace:*"
   }
 }
